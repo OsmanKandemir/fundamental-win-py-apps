@@ -16,9 +16,9 @@ def main():
 
 	print ClockList
 
-	SetClockWin32Api(year = 18,
-					month = 11,
-					day = 22,
+	SetClockWin32Api(year = ,
+					month = ,
+					day = ,
 					hour = ClockList[0],
 					minute = ClockList[1])
 
